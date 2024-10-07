@@ -1,6 +1,6 @@
 ## Plain Language Statement
 
-<img src= "https://github.com/irigrossman/PLS/blob/main/UoM_Logo_Vert_Housed_RGB.png" alt="University of Melbourne Logo" width="150">
+<img src= "https://raw.githubusercontent.com/irigrossman/PLS/refs/heads/main/UoM_Logo_Vert_Housed_RGB.png" alt="University of Melbourne Logo" width="150">
 
 **Melbourne School of Population and Global Health**
 
